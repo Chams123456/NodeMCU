@@ -1,6 +1,6 @@
 //ThatsEngineering
 //Sending Data from Arduino to NodeMCU Via Serial Communication
-//Arduino side code
+//Arduino code
 
 //DHT11 Lib
 #include <DHT.h>
